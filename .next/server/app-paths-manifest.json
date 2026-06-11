@@ -1,5 +1,4 @@
 {
   "/page": "app/page.js",
-  "/api/turnkey-click/route": "app/api/turnkey-click/route.js",
   "/tour/1-diagnose/page": "app/tour/1-diagnose/page.js"
 }
